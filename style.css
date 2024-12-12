@@ -1,0 +1,32 @@
+td{
+    border: 1px solid blue;
+}
+
+.naranja{
+    background-color: orange;
+    position: relative;
+    border: 3px solid orange
+    ;
+}
+
+tr{
+    background-color: white;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.LMSGI{
+    border: 3px solid orange;
+    background-color: darkorange;
+}
+
+.poso{
+    background-color: orange;
+}
+
+.enlaces{
+    background-color: aqua;
+    color: green;
+}
